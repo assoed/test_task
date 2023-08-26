@@ -49,10 +49,10 @@
 <code>composer install</code>
 
 <li>Сгенерировать ключ приложения Laravel</li>
-<code>php artisan  migrate</code>
+<code>php artisan key:generate</code>
 
 <li>Выполнить миграцию для создания таблиц в базе данных</li>
-<code>php artisan key:generate</code>
+<code>php artisan  migrate</code>
 
 <li>Запустить локальный сервер разработки, выполнив команду</li>
 <code>php artisan serve</code>
